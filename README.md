@@ -16,5 +16,3 @@ File Summaries:
 
 - ANOVA.xlsx : Two-Way ANOVA test
 - ProcessedData.xlsx : Data for RF Model
-- Norway Data.xlsx : Data for SIR/SEIR
-- Australia Data.xlsx : Data for SIR/SEIR
