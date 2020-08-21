@@ -3,7 +3,7 @@ Predictive Modeling for Infectious Disease Dynamics in Influenza
 
 Group2: Fan Lu and Hope Mumme
 
-Affiliation: Dr. May Wang at Georgia Institute of Technology
+Supervising Professor: Dr. May Wang at Georgia Institute of Technology
 
 Code Requirements:
 - MATLAB
